@@ -17,7 +17,7 @@ import HeaderMenu from './components/HeaderMenu.component.vue';
         </n-space>
       </n-layout-content>
     </n-layout>
-  </n-config-provider>
+  </n-config-provider>  
 </template>
 
 <style scoped>

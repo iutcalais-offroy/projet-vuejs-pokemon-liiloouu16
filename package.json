@@ -1,5 +1,6 @@
 {
   "name": "vue-pokemon-tcg-spa",
+  "author": "CHATELAIN Lilou",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +11,7 @@
     "start": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "naive-ui": "^2.41.0",
     "pinia": "^2.3.1",
     "unplugin-auto-import": "^19.1.0",
